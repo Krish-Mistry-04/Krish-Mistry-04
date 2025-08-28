@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alex Bieber</h1>
-<h3 align="center">A Researcher, Programmer, Content Creator, Influencer </h3>
+<h1 align="center">Hi 👋, I'm Krish Mistry</h1>
+<h3 align="center">A Programmer, Content Creator, Influencer </h3>
 <image align="right" alt="Coding" width="400" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbieber&label=Profile%20views&color=0e75b6&style=flat" alt="alexbieber" /> </p>
-
-<p align="left"> <a href="https://twitter.com/alexbieber12341" target="blank"><img src="https://img.shields.io/twitter/follow/alexbieber12341?logo=twitter&style=for-the-badge" alt="alexbieber12341" /></a> </p>
 
 - 🔭 I’m currently working on **Developing tools**
 
@@ -12,18 +8,14 @@
 
 - 💬 Ask me about **Your Queries!**
 
-- 📫 How to reach me **hackthetrack1234@gmail.com**
+- 📫 How to reach me **krishmistry04@gmail.com**
 
 - ⚡ Fun fact **You Are Safe on the INTERNET !🔴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alexbieber12341" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="alexbieber12341" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ambar-singh-31ba74231" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ambar-singh-31ba74231" height="30" width="40" /></a>
-<a href="https://instagram.com/alexbieber1234" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" alt="alexbieber1234" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCwXEnG4Ne6q6LJhjaGgm3UA" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Hack_The_Track" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krish-mistry-7b64272b5" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ambar-singh-31ba74231" height="30" width="40" /></a>
 </p>
-
 
 
 # 💻 My favorite tools and technologies
@@ -150,22 +142,3 @@
 
 
 </div>
-
-
-# SUPPORT - YOUR MONEY WILL GO TO THE CHARITY AROUND THE WORLD ❤ THANK YOU !
-
-<p><a href="https://www.buymeacoffee.com/alexbieber"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alexbieber" /></a></p><br><br>
-
-# DONATE YOUR MONEY FOR HELPLESS PEOPLE AROUND THE WORLD! LETS HELP THEM TOGETHER- LOVE YOU 3000❤❤❤❤
-<p>
-  <a href="https://www.paypal.me/alexbieber1234">
-      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
-  </a>
-</p>
-# Donate your money and it will inspire soo many people to live their life
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbieber&show_icons=true&locale=en&layout=compact" alt="alexbieber" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexbieber&show_icons=true&locale=en" alt="alexbieber" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbieber&" alt="alexbieber" /></p>
