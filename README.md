@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Mistry</h1>
-<h3 align="center">A Programmer, Content Creator, Influencer </h3>
+<h3 align="center">A Programmer</h3>
 <image align="right" alt="Coding" width="400" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
 - 🔭 I’m currently working on **Developing tools**
